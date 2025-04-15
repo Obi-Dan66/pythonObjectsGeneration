@@ -1,0 +1,850 @@
+2025-04-15 21:53:47,232 - INFO - Starting cube animation program
+2025-04-15 21:53:47,232 - INFO - Loading environment variables...
+2025-04-15 21:53:47,233 - INFO - Loaded environment variables: {'rotation_speed': 45.0, 'rotation_axis': 'y', 'initial_angle': 0.0, 'target_angle': 90.0, 'cube_size': 1.0, 'stop_at_target': True, 'rotation_direction': 1.0}
+2025-04-15 21:53:47,234 - INFO - Setting up PyVista configuration
+2025-04-15 21:53:47,234 - INFO - PyVista version: 0.44.1
+2025-04-15 21:53:47,234 - INFO - Off-screen rendering: False
+2025-04-15 21:53:47,234 - INFO - Creating plotter
+2025-04-15 21:53:47,544 - INFO - Setting up cube
+2025-04-15 21:53:47,544 - INFO - Creating cube with size 1.0
+2025-04-15 21:53:47,544 - INFO - Cube created successfully
+2025-04-15 21:53:47,545 - INFO - Adding cube to plotter
+2025-04-15 21:53:47,548 - INFO - Cube added successfully
+2025-04-15 21:53:47,548 - INFO - Setting up camera
+2025-04-15 21:53:47,549 - INFO - Rotation step: 0.375 degrees per frame
+2025-04-15 21:53:47,549 - INFO - Starting initial visualization
+2025-04-15 21:54:08,955 - INFO - Initial visualization successful
+2025-04-15 21:54:09,956 - INFO - Starting animation loop
+2025-04-15 21:54:09,956 - DEBUG - Current angle: 0.375
+2025-04-15 21:54:09,957 - DEBUG - Calculating rotation matrix for angle 0.375 around y axis
+2025-04-15 21:54:09,957 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:09,991 - DEBUG - Current angle: 0.75
+2025-04-15 21:54:09,992 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:54:09,992 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,025 - DEBUG - Current angle: 1.125
+2025-04-15 21:54:10,026 - DEBUG - Calculating rotation matrix for angle 1.125 around y axis
+2025-04-15 21:54:10,027 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,060 - DEBUG - Current angle: 1.5
+2025-04-15 21:54:10,060 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:54:10,061 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,095 - DEBUG - Current angle: 1.875
+2025-04-15 21:54:10,095 - DEBUG - Calculating rotation matrix for angle 1.875 around y axis
+2025-04-15 21:54:10,095 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,129 - DEBUG - Current angle: 2.25
+2025-04-15 21:54:10,129 - DEBUG - Calculating rotation matrix for angle 2.25 around y axis
+2025-04-15 21:54:10,130 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,163 - DEBUG - Current angle: 2.625
+2025-04-15 21:54:10,163 - DEBUG - Calculating rotation matrix for angle 2.625 around y axis
+2025-04-15 21:54:10,164 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,197 - DEBUG - Current angle: 3.0
+2025-04-15 21:54:10,198 - DEBUG - Calculating rotation matrix for angle 3.0 around y axis
+2025-04-15 21:54:10,198 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,231 - DEBUG - Current angle: 3.375
+2025-04-15 21:54:10,232 - DEBUG - Calculating rotation matrix for angle 3.375 around y axis
+2025-04-15 21:54:10,232 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,265 - DEBUG - Current angle: 3.75
+2025-04-15 21:54:10,266 - DEBUG - Calculating rotation matrix for angle 3.75 around y axis
+2025-04-15 21:54:10,266 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,300 - DEBUG - Current angle: 4.125
+2025-04-15 21:54:10,300 - DEBUG - Calculating rotation matrix for angle 4.125 around y axis
+2025-04-15 21:54:10,301 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,334 - DEBUG - Current angle: 4.5
+2025-04-15 21:54:10,335 - DEBUG - Calculating rotation matrix for angle 4.5 around y axis
+2025-04-15 21:54:10,337 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,372 - DEBUG - Current angle: 4.875
+2025-04-15 21:54:10,372 - DEBUG - Calculating rotation matrix for angle 4.875 around y axis
+2025-04-15 21:54:10,373 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,406 - DEBUG - Current angle: 5.25
+2025-04-15 21:54:10,407 - DEBUG - Calculating rotation matrix for angle 5.25 around y axis
+2025-04-15 21:54:10,407 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,441 - DEBUG - Current angle: 5.625
+2025-04-15 21:54:10,441 - DEBUG - Calculating rotation matrix for angle 5.625 around y axis
+2025-04-15 21:54:10,442 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,475 - DEBUG - Current angle: 6.0
+2025-04-15 21:54:10,475 - DEBUG - Calculating rotation matrix for angle 6.0 around y axis
+2025-04-15 21:54:10,476 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,509 - DEBUG - Current angle: 6.375
+2025-04-15 21:54:10,510 - DEBUG - Calculating rotation matrix for angle 6.375 around y axis
+2025-04-15 21:54:10,510 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,544 - DEBUG - Current angle: 6.75
+2025-04-15 21:54:10,544 - DEBUG - Calculating rotation matrix for angle 6.75 around y axis
+2025-04-15 21:54:10,544 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,578 - DEBUG - Current angle: 7.125
+2025-04-15 21:54:10,578 - DEBUG - Calculating rotation matrix for angle 7.125 around y axis
+2025-04-15 21:54:10,579 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,612 - DEBUG - Current angle: 7.5
+2025-04-15 21:54:10,613 - DEBUG - Calculating rotation matrix for angle 7.5 around y axis
+2025-04-15 21:54:10,613 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,647 - DEBUG - Current angle: 7.875
+2025-04-15 21:54:10,647 - DEBUG - Calculating rotation matrix for angle 7.875 around y axis
+2025-04-15 21:54:10,648 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,681 - DEBUG - Current angle: 8.25
+2025-04-15 21:54:10,682 - DEBUG - Calculating rotation matrix for angle 8.25 around y axis
+2025-04-15 21:54:10,682 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,716 - DEBUG - Current angle: 8.625
+2025-04-15 21:54:10,716 - DEBUG - Calculating rotation matrix for angle 8.625 around y axis
+2025-04-15 21:54:10,716 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,750 - DEBUG - Current angle: 9.0
+2025-04-15 21:54:10,750 - DEBUG - Calculating rotation matrix for angle 9.0 around y axis
+2025-04-15 21:54:10,751 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,784 - DEBUG - Current angle: 9.375
+2025-04-15 21:54:10,785 - DEBUG - Calculating rotation matrix for angle 9.375 around y axis
+2025-04-15 21:54:10,785 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,819 - DEBUG - Current angle: 9.75
+2025-04-15 21:54:10,819 - DEBUG - Calculating rotation matrix for angle 9.75 around y axis
+2025-04-15 21:54:10,820 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,853 - DEBUG - Current angle: 10.125
+2025-04-15 21:54:10,854 - DEBUG - Calculating rotation matrix for angle 10.125 around y axis
+2025-04-15 21:54:10,854 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,888 - DEBUG - Current angle: 10.5
+2025-04-15 21:54:10,888 - DEBUG - Calculating rotation matrix for angle 10.5 around y axis
+2025-04-15 21:54:10,888 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,922 - DEBUG - Current angle: 10.875
+2025-04-15 21:54:10,922 - DEBUG - Calculating rotation matrix for angle 10.875 around y axis
+2025-04-15 21:54:10,922 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,956 - DEBUG - Current angle: 11.25
+2025-04-15 21:54:10,956 - DEBUG - Calculating rotation matrix for angle 11.25 around y axis
+2025-04-15 21:54:10,956 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:10,990 - DEBUG - Current angle: 11.625
+2025-04-15 21:54:10,991 - DEBUG - Calculating rotation matrix for angle 11.625 around y axis
+2025-04-15 21:54:10,991 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,024 - DEBUG - Current angle: 12.0
+2025-04-15 21:54:11,025 - DEBUG - Calculating rotation matrix for angle 12.0 around y axis
+2025-04-15 21:54:11,025 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,059 - DEBUG - Current angle: 12.375
+2025-04-15 21:54:11,059 - DEBUG - Calculating rotation matrix for angle 12.375 around y axis
+2025-04-15 21:54:11,059 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,093 - DEBUG - Current angle: 12.75
+2025-04-15 21:54:11,093 - DEBUG - Calculating rotation matrix for angle 12.75 around y axis
+2025-04-15 21:54:11,094 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,128 - DEBUG - Current angle: 13.125
+2025-04-15 21:54:11,128 - DEBUG - Calculating rotation matrix for angle 13.125 around y axis
+2025-04-15 21:54:11,128 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,162 - DEBUG - Current angle: 13.5
+2025-04-15 21:54:11,162 - DEBUG - Calculating rotation matrix for angle 13.5 around y axis
+2025-04-15 21:54:11,163 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,197 - DEBUG - Current angle: 13.875
+2025-04-15 21:54:11,197 - DEBUG - Calculating rotation matrix for angle 13.875 around y axis
+2025-04-15 21:54:11,198 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,231 - DEBUG - Current angle: 14.25
+2025-04-15 21:54:11,232 - DEBUG - Calculating rotation matrix for angle 14.25 around y axis
+2025-04-15 21:54:11,232 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,266 - DEBUG - Current angle: 14.625
+2025-04-15 21:54:11,266 - DEBUG - Calculating rotation matrix for angle 14.625 around y axis
+2025-04-15 21:54:11,266 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,300 - DEBUG - Current angle: 15.0
+2025-04-15 21:54:11,301 - DEBUG - Calculating rotation matrix for angle 15.0 around y axis
+2025-04-15 21:54:11,301 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,334 - DEBUG - Current angle: 15.375
+2025-04-15 21:54:11,335 - DEBUG - Calculating rotation matrix for angle 15.375 around y axis
+2025-04-15 21:54:11,335 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,369 - DEBUG - Current angle: 15.75
+2025-04-15 21:54:11,369 - DEBUG - Calculating rotation matrix for angle 15.75 around y axis
+2025-04-15 21:54:11,369 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,403 - DEBUG - Current angle: 16.125
+2025-04-15 21:54:11,404 - DEBUG - Calculating rotation matrix for angle 16.125 around y axis
+2025-04-15 21:54:11,404 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,437 - DEBUG - Current angle: 16.5
+2025-04-15 21:54:11,438 - DEBUG - Calculating rotation matrix for angle 16.5 around y axis
+2025-04-15 21:54:11,438 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,472 - DEBUG - Current angle: 16.875
+2025-04-15 21:54:11,472 - DEBUG - Calculating rotation matrix for angle 16.875 around y axis
+2025-04-15 21:54:11,473 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,507 - DEBUG - Current angle: 17.25
+2025-04-15 21:54:11,508 - DEBUG - Calculating rotation matrix for angle 17.25 around y axis
+2025-04-15 21:54:11,508 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,542 - DEBUG - Current angle: 17.625
+2025-04-15 21:54:11,542 - DEBUG - Calculating rotation matrix for angle 17.625 around y axis
+2025-04-15 21:54:11,543 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,577 - DEBUG - Current angle: 18.0
+2025-04-15 21:54:11,577 - DEBUG - Calculating rotation matrix for angle 18.0 around y axis
+2025-04-15 21:54:11,578 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,611 - DEBUG - Current angle: 18.375
+2025-04-15 21:54:11,611 - DEBUG - Calculating rotation matrix for angle 18.375 around y axis
+2025-04-15 21:54:11,612 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,646 - DEBUG - Current angle: 18.75
+2025-04-15 21:54:11,646 - DEBUG - Calculating rotation matrix for angle 18.75 around y axis
+2025-04-15 21:54:11,647 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,680 - DEBUG - Current angle: 19.125
+2025-04-15 21:54:11,681 - DEBUG - Calculating rotation matrix for angle 19.125 around y axis
+2025-04-15 21:54:11,682 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,715 - DEBUG - Current angle: 19.5
+2025-04-15 21:54:11,716 - DEBUG - Calculating rotation matrix for angle 19.5 around y axis
+2025-04-15 21:54:11,716 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,750 - DEBUG - Current angle: 19.875
+2025-04-15 21:54:11,750 - DEBUG - Calculating rotation matrix for angle 19.875 around y axis
+2025-04-15 21:54:11,751 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,784 - DEBUG - Current angle: 20.25
+2025-04-15 21:54:11,784 - DEBUG - Calculating rotation matrix for angle 20.25 around y axis
+2025-04-15 21:54:11,785 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,819 - DEBUG - Current angle: 20.625
+2025-04-15 21:54:11,819 - DEBUG - Calculating rotation matrix for angle 20.625 around y axis
+2025-04-15 21:54:11,820 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,853 - DEBUG - Current angle: 21.0
+2025-04-15 21:54:11,854 - DEBUG - Calculating rotation matrix for angle 21.0 around y axis
+2025-04-15 21:54:11,855 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,889 - DEBUG - Current angle: 21.375
+2025-04-15 21:54:11,889 - DEBUG - Calculating rotation matrix for angle 21.375 around y axis
+2025-04-15 21:54:11,890 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,923 - DEBUG - Current angle: 21.75
+2025-04-15 21:54:11,924 - DEBUG - Calculating rotation matrix for angle 21.75 around y axis
+2025-04-15 21:54:11,924 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,958 - DEBUG - Current angle: 22.125
+2025-04-15 21:54:11,958 - DEBUG - Calculating rotation matrix for angle 22.125 around y axis
+2025-04-15 21:54:11,959 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:11,993 - DEBUG - Current angle: 22.5
+2025-04-15 21:54:11,993 - DEBUG - Calculating rotation matrix for angle 22.5 around y axis
+2025-04-15 21:54:11,993 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,027 - DEBUG - Current angle: 22.875
+2025-04-15 21:54:12,028 - DEBUG - Calculating rotation matrix for angle 22.875 around y axis
+2025-04-15 21:54:12,028 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,062 - DEBUG - Current angle: 23.25
+2025-04-15 21:54:12,063 - DEBUG - Calculating rotation matrix for angle 23.25 around y axis
+2025-04-15 21:54:12,063 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,097 - DEBUG - Current angle: 23.625
+2025-04-15 21:54:12,097 - DEBUG - Calculating rotation matrix for angle 23.625 around y axis
+2025-04-15 21:54:12,098 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,132 - DEBUG - Current angle: 24.0
+2025-04-15 21:54:12,132 - DEBUG - Calculating rotation matrix for angle 24.0 around y axis
+2025-04-15 21:54:12,133 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,167 - DEBUG - Current angle: 24.375
+2025-04-15 21:54:12,167 - DEBUG - Calculating rotation matrix for angle 24.375 around y axis
+2025-04-15 21:54:12,168 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,202 - DEBUG - Current angle: 24.75
+2025-04-15 21:54:12,202 - DEBUG - Calculating rotation matrix for angle 24.75 around y axis
+2025-04-15 21:54:12,203 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,237 - DEBUG - Current angle: 25.125
+2025-04-15 21:54:12,237 - DEBUG - Calculating rotation matrix for angle 25.125 around y axis
+2025-04-15 21:54:12,238 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,272 - DEBUG - Current angle: 25.5
+2025-04-15 21:54:12,272 - DEBUG - Calculating rotation matrix for angle 25.5 around y axis
+2025-04-15 21:54:12,273 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,307 - DEBUG - Current angle: 25.875
+2025-04-15 21:54:12,308 - DEBUG - Calculating rotation matrix for angle 25.875 around y axis
+2025-04-15 21:54:12,310 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,345 - DEBUG - Current angle: 26.25
+2025-04-15 21:54:12,345 - DEBUG - Calculating rotation matrix for angle 26.25 around y axis
+2025-04-15 21:54:12,346 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,380 - DEBUG - Current angle: 26.625
+2025-04-15 21:54:12,380 - DEBUG - Calculating rotation matrix for angle 26.625 around y axis
+2025-04-15 21:54:12,381 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,414 - DEBUG - Current angle: 27.0
+2025-04-15 21:54:12,415 - DEBUG - Calculating rotation matrix for angle 27.0 around y axis
+2025-04-15 21:54:12,415 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,449 - DEBUG - Current angle: 27.375
+2025-04-15 21:54:12,450 - DEBUG - Calculating rotation matrix for angle 27.375 around y axis
+2025-04-15 21:54:12,450 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,484 - DEBUG - Current angle: 27.75
+2025-04-15 21:54:12,485 - DEBUG - Calculating rotation matrix for angle 27.75 around y axis
+2025-04-15 21:54:12,485 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,519 - DEBUG - Current angle: 28.125
+2025-04-15 21:54:12,520 - DEBUG - Calculating rotation matrix for angle 28.125 around y axis
+2025-04-15 21:54:12,520 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,554 - DEBUG - Current angle: 28.5
+2025-04-15 21:54:12,555 - DEBUG - Calculating rotation matrix for angle 28.5 around y axis
+2025-04-15 21:54:12,555 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,589 - DEBUG - Current angle: 28.875
+2025-04-15 21:54:12,590 - DEBUG - Calculating rotation matrix for angle 28.875 around y axis
+2025-04-15 21:54:12,591 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,625 - DEBUG - Current angle: 29.25
+2025-04-15 21:54:12,625 - DEBUG - Calculating rotation matrix for angle 29.25 around y axis
+2025-04-15 21:54:12,626 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,660 - DEBUG - Current angle: 29.625
+2025-04-15 21:54:12,660 - DEBUG - Calculating rotation matrix for angle 29.625 around y axis
+2025-04-15 21:54:12,661 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,695 - DEBUG - Current angle: 30.0
+2025-04-15 21:54:12,695 - DEBUG - Calculating rotation matrix for angle 30.0 around y axis
+2025-04-15 21:54:12,696 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,730 - DEBUG - Current angle: 30.375
+2025-04-15 21:54:12,730 - DEBUG - Calculating rotation matrix for angle 30.375 around y axis
+2025-04-15 21:54:12,731 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,765 - DEBUG - Current angle: 30.75
+2025-04-15 21:54:12,765 - DEBUG - Calculating rotation matrix for angle 30.75 around y axis
+2025-04-15 21:54:12,766 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,800 - DEBUG - Current angle: 31.125
+2025-04-15 21:54:12,800 - DEBUG - Calculating rotation matrix for angle 31.125 around y axis
+2025-04-15 21:54:12,801 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,834 - DEBUG - Current angle: 31.5
+2025-04-15 21:54:12,834 - DEBUG - Calculating rotation matrix for angle 31.5 around y axis
+2025-04-15 21:54:12,835 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,869 - DEBUG - Current angle: 31.875
+2025-04-15 21:54:12,869 - DEBUG - Calculating rotation matrix for angle 31.875 around y axis
+2025-04-15 21:54:12,870 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,904 - DEBUG - Current angle: 32.25
+2025-04-15 21:54:12,904 - DEBUG - Calculating rotation matrix for angle 32.25 around y axis
+2025-04-15 21:54:12,905 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,938 - DEBUG - Current angle: 32.625
+2025-04-15 21:54:12,939 - DEBUG - Calculating rotation matrix for angle 32.625 around y axis
+2025-04-15 21:54:12,939 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:12,972 - DEBUG - Current angle: 33.0
+2025-04-15 21:54:12,973 - DEBUG - Calculating rotation matrix for angle 33.0 around y axis
+2025-04-15 21:54:12,973 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,007 - DEBUG - Current angle: 33.375
+2025-04-15 21:54:13,007 - DEBUG - Calculating rotation matrix for angle 33.375 around y axis
+2025-04-15 21:54:13,008 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,042 - DEBUG - Current angle: 33.75
+2025-04-15 21:54:13,042 - DEBUG - Calculating rotation matrix for angle 33.75 around y axis
+2025-04-15 21:54:13,043 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,076 - DEBUG - Current angle: 34.125
+2025-04-15 21:54:13,077 - DEBUG - Calculating rotation matrix for angle 34.125 around y axis
+2025-04-15 21:54:13,077 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,111 - DEBUG - Current angle: 34.5
+2025-04-15 21:54:13,111 - DEBUG - Calculating rotation matrix for angle 34.5 around y axis
+2025-04-15 21:54:13,111 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,145 - DEBUG - Current angle: 34.875
+2025-04-15 21:54:13,145 - DEBUG - Calculating rotation matrix for angle 34.875 around y axis
+2025-04-15 21:54:13,146 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,179 - DEBUG - Current angle: 35.25
+2025-04-15 21:54:13,180 - DEBUG - Calculating rotation matrix for angle 35.25 around y axis
+2025-04-15 21:54:13,181 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,215 - DEBUG - Current angle: 35.625
+2025-04-15 21:54:13,216 - DEBUG - Calculating rotation matrix for angle 35.625 around y axis
+2025-04-15 21:54:13,217 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,252 - DEBUG - Current angle: 36.0
+2025-04-15 21:54:13,253 - DEBUG - Calculating rotation matrix for angle 36.0 around y axis
+2025-04-15 21:54:13,254 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,288 - DEBUG - Current angle: 36.375
+2025-04-15 21:54:13,288 - DEBUG - Calculating rotation matrix for angle 36.375 around y axis
+2025-04-15 21:54:13,289 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,323 - DEBUG - Current angle: 36.75
+2025-04-15 21:54:13,323 - DEBUG - Calculating rotation matrix for angle 36.75 around y axis
+2025-04-15 21:54:13,324 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,358 - DEBUG - Current angle: 37.125
+2025-04-15 21:54:13,358 - DEBUG - Calculating rotation matrix for angle 37.125 around y axis
+2025-04-15 21:54:13,359 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,392 - DEBUG - Current angle: 37.5
+2025-04-15 21:54:13,393 - DEBUG - Calculating rotation matrix for angle 37.5 around y axis
+2025-04-15 21:54:13,393 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,427 - DEBUG - Current angle: 37.875
+2025-04-15 21:54:13,428 - DEBUG - Calculating rotation matrix for angle 37.875 around y axis
+2025-04-15 21:54:13,430 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,464 - DEBUG - Current angle: 38.25
+2025-04-15 21:54:13,465 - DEBUG - Calculating rotation matrix for angle 38.25 around y axis
+2025-04-15 21:54:13,466 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,499 - DEBUG - Current angle: 38.625
+2025-04-15 21:54:13,500 - DEBUG - Calculating rotation matrix for angle 38.625 around y axis
+2025-04-15 21:54:13,500 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,534 - DEBUG - Current angle: 39.0
+2025-04-15 21:54:13,535 - DEBUG - Calculating rotation matrix for angle 39.0 around y axis
+2025-04-15 21:54:13,536 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,570 - DEBUG - Current angle: 39.375
+2025-04-15 21:54:13,570 - DEBUG - Calculating rotation matrix for angle 39.375 around y axis
+2025-04-15 21:54:13,571 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,605 - DEBUG - Current angle: 39.75
+2025-04-15 21:54:13,606 - DEBUG - Calculating rotation matrix for angle 39.75 around y axis
+2025-04-15 21:54:13,606 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,640 - DEBUG - Current angle: 40.125
+2025-04-15 21:54:13,641 - DEBUG - Calculating rotation matrix for angle 40.125 around y axis
+2025-04-15 21:54:13,642 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,676 - DEBUG - Current angle: 40.5
+2025-04-15 21:54:13,676 - DEBUG - Calculating rotation matrix for angle 40.5 around y axis
+2025-04-15 21:54:13,677 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,711 - DEBUG - Current angle: 40.875
+2025-04-15 21:54:13,711 - DEBUG - Calculating rotation matrix for angle 40.875 around y axis
+2025-04-15 21:54:13,712 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,746 - DEBUG - Current angle: 41.25
+2025-04-15 21:54:13,747 - DEBUG - Calculating rotation matrix for angle 41.25 around y axis
+2025-04-15 21:54:13,747 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,781 - DEBUG - Current angle: 41.625
+2025-04-15 21:54:13,782 - DEBUG - Calculating rotation matrix for angle 41.625 around y axis
+2025-04-15 21:54:13,782 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,816 - DEBUG - Current angle: 42.0
+2025-04-15 21:54:13,817 - DEBUG - Calculating rotation matrix for angle 42.0 around y axis
+2025-04-15 21:54:13,818 - DEBUG - Frame rendered successfully
+2025-04-15 21:54:13,830 - INFO - Animation stopped by user
+2025-04-15 21:54:13,831 - INFO - Cleaning up...
+2025-04-15 21:54:13,831 - INFO - Program finished
+2025-04-15 21:54:37,724 - INFO - Starting cube animation program
+2025-04-15 21:54:37,725 - INFO - Loading environment variables...
+2025-04-15 21:54:37,726 - INFO - Loaded environment variables: {'rotation_speed': 45.0, 'rotation_axis': 'y', 'initial_angle': 0.0, 'target_angle': 90.0, 'cube_size': 1.0, 'stop_at_target': True, 'rotation_direction': 1.0}
+2025-04-15 21:54:37,726 - INFO - Setting up PyVista configuration
+2025-04-15 21:54:37,726 - INFO - PyVista version: 0.44.1
+2025-04-15 21:54:37,727 - INFO - Off-screen rendering: False
+2025-04-15 21:54:37,727 - INFO - Creating plotter
+2025-04-15 21:54:37,934 - INFO - Setting up cube
+2025-04-15 21:54:37,934 - INFO - Creating cube with size 1.0
+2025-04-15 21:54:37,935 - INFO - Cube created successfully
+2025-04-15 21:54:37,935 - INFO - Adding cube to plotter
+2025-04-15 21:54:37,937 - INFO - Cube added successfully
+2025-04-15 21:54:37,938 - INFO - Setting up camera
+2025-04-15 21:54:37,938 - INFO - Rotation step: 0.375 degrees per frame
+2025-04-15 21:54:37,938 - INFO - Starting initial visualization
+2025-04-15 21:55:40,984 - INFO - Animation stopped by user
+2025-04-15 21:55:40,984 - INFO - Cleaning up...
+2025-04-15 21:55:40,985 - INFO - Program finished
+2025-04-15 21:56:23,993 - INFO - Starting cube animation program
+2025-04-15 21:56:23,993 - INFO - Loading environment variables...
+2025-04-15 21:56:23,995 - INFO - Loaded environment variables: {'rotation_speed': 45.0, 'rotation_axis': 'y', 'initial_angle': 0.0, 'target_angle': 90.0, 'cube_size': 1.0, 'stop_at_target': True, 'rotation_direction': 1.0}
+2025-04-15 21:56:23,995 - INFO - Setting up PyVista configuration
+2025-04-15 21:56:23,995 - INFO - PyVista version: 0.44.1
+2025-04-15 21:56:23,995 - INFO - Off-screen rendering: False
+2025-04-15 21:56:23,995 - INFO - Creating plotter
+2025-04-15 21:56:24,246 - INFO - Setting up cube
+2025-04-15 21:56:24,246 - INFO - Creating cube with size 1.0
+2025-04-15 21:56:24,247 - INFO - Cube created successfully
+2025-04-15 21:56:24,247 - INFO - Adding cube to plotter
+2025-04-15 21:56:24,250 - INFO - Setting up camera
+2025-04-15 21:56:24,250 - INFO - Rotation step: 0.75 degrees per frame
+2025-04-15 21:56:24,250 - INFO - Setting up animation callback
+2025-04-15 21:56:24,251 - ERROR - Unexpected error: 'Plotter' object has no attribute 'add_callback'
+Traceback (most recent call last):
+  File "C:\Users\danie\Dev\pythonObjectsGeneration\cube_generator.py", line 123, in main
+    p.add_callback(callback, interval=100)
+    ^^^^^^^^^^^^^^
+AttributeError: 'Plotter' object has no attribute 'add_callback'
+2025-04-15 21:56:24,252 - INFO - Cleaning up...
+2025-04-15 21:56:24,252 - INFO - Program finished
+2025-04-15 21:56:39,037 - INFO - Starting cube animation program
+2025-04-15 21:56:39,037 - INFO - Loading environment variables...
+2025-04-15 21:56:39,038 - INFO - Loaded environment variables: {'rotation_speed': 45.0, 'rotation_axis': 'y', 'initial_angle': 0.0, 'target_angle': 90.0, 'cube_size': 1.0, 'stop_at_target': True, 'rotation_direction': 1.0}
+2025-04-15 21:56:39,038 - INFO - Setting up PyVista configuration
+2025-04-15 21:56:39,038 - INFO - PyVista version: 0.44.1
+2025-04-15 21:56:39,038 - INFO - Off-screen rendering: False
+2025-04-15 21:56:39,039 - INFO - Creating plotter
+2025-04-15 21:56:39,253 - INFO - Setting up cube
+2025-04-15 21:56:39,253 - INFO - Creating cube with size 1.0
+2025-04-15 21:56:39,253 - INFO - Cube created successfully
+2025-04-15 21:56:39,253 - INFO - Adding cube to plotter
+2025-04-15 21:56:39,256 - INFO - Setting up camera
+2025-04-15 21:56:39,256 - INFO - Rotation step: 0.75 degrees per frame
+2025-04-15 21:56:39,256 - INFO - Setting up animation
+2025-04-15 21:56:39,257 - ERROR - Unexpected error: Install imageio to use `open_movie` with:
+
+   pip install imageio
+Traceback (most recent call last):
+  File "C:\Users\danie\Dev\pythonObjectsGeneration\cube_generator.py", line 110, in main
+    p.open_movie('cube_rotation.mp4')  # This enables animation mode
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie\Dev\pythonObjectsGeneration\venv\Lib\site-packages\pyvista\plotting\plotter.py", line 5132, in open_movie
+    raise ModuleNotFoundError(
+        'Install imageio to use `open_movie` with:\n\n   pip install imageio',
+    ) from None
+ModuleNotFoundError: Install imageio to use `open_movie` with:
+
+   pip install imageio
+2025-04-15 21:56:39,286 - INFO - Cleaning up...
+2025-04-15 21:56:39,287 - INFO - Program finished
+2025-04-15 21:57:10,169 - INFO - Starting cube animation program
+2025-04-15 21:57:10,169 - INFO - Loading environment variables...
+2025-04-15 21:57:10,170 - INFO - Loaded environment variables: {'rotation_speed': 45.0, 'rotation_axis': 'y', 'initial_angle': 0.0, 'target_angle': 90.0, 'cube_size': 1.0, 'stop_at_target': True, 'rotation_direction': 1.0}
+2025-04-15 21:57:10,171 - INFO - Setting up PyVista configuration
+2025-04-15 21:57:10,171 - INFO - PyVista version: 0.44.1
+2025-04-15 21:57:10,171 - INFO - Off-screen rendering: False
+2025-04-15 21:57:10,171 - INFO - Creating plotter
+2025-04-15 21:57:10,380 - INFO - Setting up cube
+2025-04-15 21:57:10,381 - INFO - Creating cube with size 1.0
+2025-04-15 21:57:10,381 - INFO - Cube created successfully
+2025-04-15 21:57:10,381 - INFO - Adding cube to plotter
+2025-04-15 21:57:10,384 - INFO - Setting up camera
+2025-04-15 21:57:10,384 - INFO - Rotation step: 0.75 degrees per frame
+2025-04-15 21:57:10,747 - INFO - Starting animation
+2025-04-15 21:57:10,747 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,765 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,783 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,801 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,819 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,837 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,855 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,873 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,891 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,909 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,927 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,946 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,964 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:10,983 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,002 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,020 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,038 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,055 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,073 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,091 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,110 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,127 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,145 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,163 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,181 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,201 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,220 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,238 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,255 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,274 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,291 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,309 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,327 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,345 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,362 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,380 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,398 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,416 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,434 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,451 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,469 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,486 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,504 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,522 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,540 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,558 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,575 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,593 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,611 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,628 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,646 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,663 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,681 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,699 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,717 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,735 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,753 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,770 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,788 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,809 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,827 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,845 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,863 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,883 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,901 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,919 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,937 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,955 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,974 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:11,992 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,009 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,027 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,045 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,063 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,085 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,103 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,121 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,140 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,157 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,175 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,192 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,210 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,228 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,246 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,265 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,282 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,300 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,318 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,335 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,353 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,370 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,388 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,406 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,424 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,442 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,459 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,477 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,495 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,513 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,530 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,548 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,565 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,583 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,600 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,618 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,635 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,655 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,673 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,690 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,708 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,726 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,743 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,761 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,780 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,798 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,815 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,833 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,850 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,868 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:12,886 - DEBUG - Calculating rotation matrix for angle 90.0 around y axis
+2025-04-15 21:57:12,888 - INFO - Animation complete, switching to interactive mode
+2025-04-15 21:57:19,916 - INFO - Cleaning up...
+2025-04-15 21:57:19,916 - INFO - Program finished
+2025-04-15 21:57:24,574 - INFO - Starting cube animation program
+2025-04-15 21:57:24,574 - INFO - Loading environment variables...
+2025-04-15 21:57:24,575 - INFO - Loaded environment variables: {'rotation_speed': 45.0, 'rotation_axis': 'y', 'initial_angle': 0.0, 'target_angle': 90.0, 'cube_size': 1.0, 'stop_at_target': True, 'rotation_direction': 1.0}
+2025-04-15 21:57:24,576 - INFO - Setting up PyVista configuration
+2025-04-15 21:57:24,576 - INFO - PyVista version: 0.44.1
+2025-04-15 21:57:24,576 - INFO - Off-screen rendering: False
+2025-04-15 21:57:24,576 - INFO - Creating plotter
+2025-04-15 21:57:24,779 - INFO - Setting up cube
+2025-04-15 21:57:24,780 - INFO - Creating cube with size 1.0
+2025-04-15 21:57:24,780 - INFO - Cube created successfully
+2025-04-15 21:57:24,780 - INFO - Adding cube to plotter
+2025-04-15 21:57:24,783 - INFO - Setting up camera
+2025-04-15 21:57:24,783 - INFO - Rotation step: 0.75 degrees per frame
+2025-04-15 21:57:25,141 - INFO - Starting animation
+2025-04-15 21:57:25,142 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,160 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,178 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,195 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,213 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,230 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,248 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,267 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,285 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,303 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,321 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,339 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,358 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,376 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,394 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,411 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,429 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,447 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,464 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,481 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,500 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,518 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,535 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,553 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,570 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,588 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,605 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,623 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,641 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,659 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,679 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,698 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,716 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,734 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,751 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,769 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,786 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,804 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,822 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,840 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,858 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,876 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,893 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,911 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,928 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,946 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,963 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:25,982 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,002 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,020 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,039 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,058 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,076 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,094 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,114 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,134 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,152 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,170 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,190 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,207 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,225 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,243 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,260 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,278 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,296 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,313 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,331 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,349 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,366 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,387 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,405 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,423 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,440 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,458 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,475 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,493 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,513 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,533 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,550 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,568 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,586 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,603 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,622 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,640 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,657 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,675 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,693 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,711 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,731 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,749 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,769 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,787 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,805 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,823 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,841 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,859 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,876 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,893 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,911 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,928 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,948 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,965 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:26,985 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,003 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,021 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,039 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,059 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,077 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,096 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,114 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,132 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,149 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,167 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,184 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,202 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,219 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,239 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,258 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,276 - DEBUG - Calculating rotation matrix for angle 0.75 around y axis
+2025-04-15 21:57:27,294 - DEBUG - Calculating rotation matrix for angle 90.0 around y axis
+2025-04-15 21:57:27,295 - INFO - Animation complete, switching to interactive mode
+2025-04-15 21:58:39,749 - INFO - Starting cube animation program
+2025-04-15 21:58:39,749 - INFO - Loading environment variables...
+2025-04-15 21:58:39,751 - INFO - Loaded environment variables: {'rotation_speed': 90.0, 'rotation_axis': 'y', 'initial_angle': 0.0, 'target_angle': 90.0, 'cube_size': 1.0, 'stop_at_target': True, 'rotation_direction': 1.0}
+2025-04-15 21:58:39,751 - INFO - Setting up PyVista configuration
+2025-04-15 21:58:39,751 - INFO - PyVista version: 0.44.1
+2025-04-15 21:58:39,752 - INFO - Off-screen rendering: False
+2025-04-15 21:58:39,752 - INFO - Creating plotter
+2025-04-15 21:58:39,980 - INFO - Setting up cube
+2025-04-15 21:58:39,980 - INFO - Creating cube with size 1.0
+2025-04-15 21:58:39,981 - INFO - Cube created successfully
+2025-04-15 21:58:39,981 - INFO - Adding cube to plotter
+2025-04-15 21:58:39,984 - INFO - Setting up camera
+2025-04-15 21:58:39,984 - INFO - Rotation step: 1.5 degrees per frame
+2025-04-15 21:58:40,340 - INFO - Starting animation
+2025-04-15 21:58:40,341 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,359 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,378 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,395 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,412 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,430 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,448 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,467 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,485 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,502 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,520 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,537 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,555 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,573 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,590 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,608 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,626 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,644 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,661 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,679 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,696 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,714 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,736 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,753 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,771 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,793 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,811 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,829 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,847 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,869 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,888 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,907 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,924 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,942 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,959 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,977 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:40,995 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,013 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,034 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,055 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,074 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,093 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,111 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,129 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,147 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,169 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,189 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,208 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,226 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,243 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,261 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,278 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,296 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,314 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,332 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,353 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,372 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,391 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,408 - DEBUG - Calculating rotation matrix for angle 1.5 around y axis
+2025-04-15 21:58:41,426 - DEBUG - Calculating rotation matrix for angle 90.0 around y axis
+2025-04-15 21:58:41,427 - INFO - Animation complete, switching to interactive mode
+2025-04-15 21:58:53,263 - INFO - Cleaning up...
+2025-04-15 21:58:53,263 - INFO - Program finished
+2025-04-15 21:58:57,503 - INFO - Starting cube animation program
+2025-04-15 21:58:57,503 - INFO - Loading environment variables...
+2025-04-15 21:58:57,505 - INFO - Loaded environment variables: {'rotation_speed': 90.0, 'rotation_axis': 'z', 'initial_angle': 0.0, 'target_angle': 90.0, 'cube_size': 1.0, 'stop_at_target': True, 'rotation_direction': 1.0}
+2025-04-15 21:58:57,505 - INFO - Setting up PyVista configuration
+2025-04-15 21:58:57,505 - INFO - PyVista version: 0.44.1
+2025-04-15 21:58:57,505 - INFO - Off-screen rendering: False
+2025-04-15 21:58:57,506 - INFO - Creating plotter
+2025-04-15 21:58:57,714 - INFO - Setting up cube
+2025-04-15 21:58:57,714 - INFO - Creating cube with size 1.0
+2025-04-15 21:58:57,715 - INFO - Cube created successfully
+2025-04-15 21:58:57,715 - INFO - Adding cube to plotter
+2025-04-15 21:58:57,717 - INFO - Setting up camera
+2025-04-15 21:58:57,718 - INFO - Rotation step: 1.5 degrees per frame
+2025-04-15 21:58:58,047 - INFO - Starting animation
+2025-04-15 21:58:58,048 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,066 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,084 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,102 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,119 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,137 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,154 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,172 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,190 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,207 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,225 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,242 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,260 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,278 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,299 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,317 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,335 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,353 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,370 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,388 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,406 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,424 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,442 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,459 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,477 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,494 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,512 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,530 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,548 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,566 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,584 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,602 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,619 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,637 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,655 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,673 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,690 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,707 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,726 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,743 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,761 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,779 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,797 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,815 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,833 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,851 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,868 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,885 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,903 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,921 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,939 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,956 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,974 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:58,993 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:59,011 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:59,029 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:59,047 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:59,066 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:59,086 - DEBUG - Calculating rotation matrix for angle 1.5 around z axis
+2025-04-15 21:58:59,104 - DEBUG - Calculating rotation matrix for angle 90.0 around z axis
+2025-04-15 21:58:59,105 - INFO - Animation complete, switching to interactive mode
